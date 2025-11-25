@@ -1,0 +1,9 @@
+{
+  "name": "twitter-discord-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "rss-parser": "^3.12.0"
+  }
+}
